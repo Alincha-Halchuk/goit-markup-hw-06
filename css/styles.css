@@ -236,7 +236,12 @@ address {
 
 @media screen and (min-width: 1158px) {
     .header-logo {
+
         margin-right: 76px;
+    }
+
+    .header-addres {
+        padding: 0;
     }
     .header-addres-list {
         flex-direction: row;
